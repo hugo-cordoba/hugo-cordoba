@@ -20,10 +20,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
   
-### Working on
-  
-https://github.com/factorlibre
-  
 ### Metrics
   
 [![Hugo Córdoba's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hugocordobaleal&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -32,5 +28,9 @@ https://github.com/factorlibre
 ### Socials
 
 <p align="center"> <a href="https://www.github.com/HugoCordobaLeal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hugocordobaleal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
+  
+### Working on
+
+<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
+
 </div>
