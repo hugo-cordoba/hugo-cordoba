@@ -25,12 +25,8 @@
 [![Hugo Córdoba's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hugocordobaleal&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
   
-### Socials
+### Find me
 
 <p align="center"><a href="https://www.linkedin.com/in/hugocordobaleal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
   
-### Working on
-
-<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
-
 </div>
