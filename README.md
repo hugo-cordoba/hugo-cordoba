@@ -13,6 +13,7 @@ Currently interested in AI.
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45px" height="45px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="45px" height="45px">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45px" height="45px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="45px" height="45px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45px" height="45px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45px" height="45px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45px" height="45px">
