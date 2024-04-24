@@ -1,5 +1,5 @@
 ## Hello world  
-![STAY HUNGRY  STAY FOOLISH](https://github.com/hugo-cordoba/hugo-cordoba/assets/110393853/67f7ee8e-6497-4a39-87ed-ba44c4c7ffab)
+![bannergithub](https://github.com/hugo-cordoba/hugo-cordoba/assets/110393853/ad7b08b9-4c95-4ba8-abe6-75ddab822f57)
 
 ## About me 
 
