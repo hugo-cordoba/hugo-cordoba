@@ -26,8 +26,12 @@ Currently interested in AI.
         <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="45px" height="45px"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="45px" height="45px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45px" height="45px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="45px" height="45px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="45px" height="45px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="45px" height="45px">
     </div>
     Frontend
     <div>
