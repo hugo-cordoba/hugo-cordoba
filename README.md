@@ -2,7 +2,7 @@
 ![bannergithub](https://github.com/hugo-cordoba/hugo-cordoba/assets/110393853/ad7b08b9-4c95-4ba8-abe6-75ddab822f57)
 
 ## About me 👨‍🎓
-Hi, I am a young software developer, who likes to make projects and study new uses of technology.
+Hi, I am software developer, who likes to make projects and study new uses of technology.
 
 Currently interested in AI.
 
