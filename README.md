@@ -8,7 +8,8 @@ Currently interested in AI.
 ## Stack
 <div>
     Environments/utils
-    <div>  
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45px" height="45px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45px" height="45px">
